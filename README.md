@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0f172a,70:0369a1,100:38bdf8&text=NGSHIN&fontColor=ffffff&fontSize=72&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Technology%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
+<img src="./assets/shini-logo.png" width="320" alt="shini — personal developer logo" />
+
+<h3>Full-Stack Developer · Technology Enthusiast · AI Explorer</h3>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Welcome+to+ngshin's+GitHub+Space;Building+practical+and+scalable+software;Exploring+Full-Stack%2C+Cloud%2C+DevOps%2C+and+AI;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Welcome+to+shini%27s+GitHub+Space;Building+practical+and+scalable+software;Exploring+Full-Stack%2C+Cloud%2C+DevOps%2C+and+AI;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ngshin&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ngshin?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&labelColor=020617" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/ngshin?label=TOTAL%20STARS&style=for-the-badge&color=38bdf8&labelColor=020617" alt="GitHub Stars"/>
+<a href="https://github.com/ngshin"><img src="https://img.shields.io/badge/Profile-ngshin-31c9f5?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181c24" alt="ngshin GitHub profile" /></a>
+<img src="https://img.shields.io/github/followers/ngshin?label=FOLLOWERS&amp;style=for-the-badge&amp;color=0ea5e9&amp;labelColor=020617" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/ngshin?label=TOTAL%20STARS&amp;style=for-the-badge&amp;color=38bdf8&amp;labelColor=020617" alt="GitHub Stars"/>
 
 </div>
 
@@ -22,7 +24,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I am **ngshin**
+### Hi, I am **shini** (@ngshin)
 
 I am a developer interested in building software systems that are practical, maintainable, and scalable. My current learning and development orientation focuses on **Full-Stack Development**, **Cloud & DevOps**, and **AI-oriented applications**.
 
@@ -47,16 +49,9 @@ I am a developer interested in building software systems that are practical, mai
 <div align="center">
 
 <a href="https://github.com/ngshin">
-  <img src="https://img.shields.io/badge/GitHub-ngshin-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ngshin-020617?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-ngshin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 </div>
 
@@ -96,7 +91,7 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,go,ts,kotlin,js&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,go,ts,kotlin,js&amp;perline=10" alt="C, C++, C#, Python, Java, PHP, Go, TypeScript, Kotlin, JavaScript" />
 
 </div>
 
@@ -104,7 +99,7 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind&amp;perline=8" alt="HTML, CSS, React, Next.js, Bootstrap, Tailwind" />
 
 </div>
 
@@ -112,7 +107,7 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,django,flask&perline=8" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,django,flask&amp;perline=8" alt="dotnet, Node.js, NestJS, Django, Flask" />
 
 </div>
 
@@ -120,13 +115,13 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase,firebase,docker,aws,gcp&perline=9" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase,firebase,docker,aws,gcp&amp;perline=9" alt="MySQL, SQLite, PostgreSQL, MongoDB, Supabase, Firebase, Docker, AWS, Google Cloud" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
 
 </div>
 
@@ -134,12 +129,12 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux&amp;perline=8" alt="Git, GitHub, VS Code, Visual Studio, Postman, Linux" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Cursor-020617?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-020617?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
 
 </div>
 
@@ -184,33 +179,12 @@ I am a developer interested in building software systems that are practical, mai
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngshin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngshin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngshin&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ngshin&theme=tokyonight&hide_border=true&border_radius=14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ngshin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophy"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ngshin&theme=tokyo-night&hide_border=true&area=true&custom_title=ngshin%27s%20Contribution%20Graph" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=ngshin&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
@@ -301,30 +275,8 @@ Python, LaTeX, Markdown, automation scripts, data processing.
 
 ---
 
-## Optional Contribution Snake
-
-> This section should be enabled only after the snake workflow has generated the SVG files successfully.
-
-<!--
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngshin/ngshin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngshin/ngshin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ngshin/ngshin/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
--->
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile.;Let's+build+something+meaningful.;Always+learning.+Always+improving." alt="Footer Typing SVG"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:0f172a,100:020617&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Thanks+for+visiting+my+profile.;Let%27s+build+something+meaningful.;Always+learning.+Always+improving." alt="Footer Typing SVG"/>
 
 </div>
