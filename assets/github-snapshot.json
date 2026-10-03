@@ -1,0 +1,25 @@
+{
+  "captured_on": "2026-10-04",
+  "contribution_window": "last 12 months",
+  "public_repos": 11,
+  "total_contributions": 122,
+  "commit_contributions": 96,
+  "pull_requests": 14,
+  "language_bytes": {
+    "JavaScript": 55689,
+    "HTML": 126579,
+    "Shell": 5657,
+    "C++": 150689,
+    "Python": 439333,
+    "C": 27925,
+    "PowerShell": 13694,
+    "Batchfile": 2103,
+    "TeX": 25161,
+    "TypeScript": 714120,
+    "CSS": 17872,
+    "PLpgSQL": 40573,
+    "Swift": 61396,
+    "PHP": 131007,
+    "Hack": 91
+  }
+}
